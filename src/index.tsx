@@ -32,7 +32,7 @@ createServer({
           id: 3,
           title: "Programador Back-end",
           category: "Back-end",
-          type: "withDraw",
+          type: "withdraw",
           amount: 150,
           created_at: new Date(),
         },

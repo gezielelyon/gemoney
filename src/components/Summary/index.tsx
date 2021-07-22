@@ -56,7 +56,13 @@ export default function Summary() {
         </strong>
       </div>
 
-      <div className="highlight-background">
+      <div
+        className={
+          summary.total > 0
+            ? "highlight-background"
+            : "highlight-background-withdraw"
+        }
+      >
         <header>
           <p>Total</p>
           <img src={TotalIcon} alt="Total" />

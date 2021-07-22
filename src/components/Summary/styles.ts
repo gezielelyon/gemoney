@@ -32,4 +32,9 @@ export const Container = styled.div`
     background-color: var(--green);
     color: var(--white);
   }
+
+  & .highlight-background-withdraw {
+    background-color: var(--red);
+    color: var(--white);
+  }
 `;
