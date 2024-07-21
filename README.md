@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **React Gemoney**
+# **Gemoney**
 
 </div>
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react_gemoney)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react_gemoney)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/react_gemoney)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/react_gemoney)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/gemoney)](https://github.com/gezielelyon/gemoney/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/gemoney)](https://github.com/gezielelyon/gemoney/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/gemoney)](https://github.com/gezielelyon/gemoney/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/gemoney)](https://github.com/gezielelyon/gemoney)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
